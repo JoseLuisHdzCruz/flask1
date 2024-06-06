@@ -12,3 +12,6 @@ __pycache__/
 # Ignore environment variables files
 .env
 .venv
+
+# Ignore old
+old/
